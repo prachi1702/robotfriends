@@ -1,11 +1,10 @@
 # Robofriends
 
+It is a begginer React js project 
 
-## 1. Clone this repo using 
+### click here to check it out :
 
-git clone https://github.com/prachi1702/robotfriends.git
+https://prachi1702.github.io/robotfriends/
 
 
-## 2. Run `npm install` 
 
-## 3. Run `npm start`
